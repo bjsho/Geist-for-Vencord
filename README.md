@@ -15,11 +15,11 @@ Get [Vencord](https://vencord.dev/).
 #### Either:
 
 Copy and place this link below on a single line under "Online Themes: <br />
-`https://raw.githubusercontent.com/quwyou/Comic-Sans-for-Vencord/refs/heads/main/Geist.css`
+`https://raw.githubusercontent.com/bjsho/Geist-for-Vencord/refs/heads/main/Geist.css`
 
 **OR**
 
-Download [Geist.css](https://github.com/quwyou/Comic-Sans-for-Vencord/blob/main/Geist.css) and put that in your Vencord themes folder
+Download [Geist.css](https://github.com/bjsho/Geist-for-Vencord/blob/main/Geist.css) and put that in your Vencord themes folder
 
 ### Why did you make this?
 
