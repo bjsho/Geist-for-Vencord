@@ -1,6 +1,6 @@
 # Comic Sans for Vencord
 
-Changes the default theme of discord to use Comic Sans (with a few look-alike fallbacks).
+Changes the default theme of discord to use Geist (with a few look-alike fallbacks).
 
 ## FAQ
 
@@ -15,15 +15,15 @@ Get [Vencord](https://vencord.dev/).
 #### Either:
 
 Copy and place this link below on a single line under "Online Themes: <br />
-`https://raw.githubusercontent.com/quwyou/Comic-Sans-for-Vencord/refs/heads/main/ComicSans.css`
+`https://raw.githubusercontent.com/quwyou/Comic-Sans-for-Vencord/refs/heads/main/Geist.css`
 
 **OR**
 
-Download [ComicSans.css](https://github.com/quwyou/Comic-Sans-for-Vencord/blob/main/ComicSans.css) and put that in your Vencord themes folder
+Download [Geist.css](https://github.com/quwyou/Comic-Sans-for-Vencord/blob/main/Geist.css) and put that in your Vencord themes folder
 
 ### Why did you make this?
 
-To suffer!
+Vercel forced me [/j](https://toneindicators.carrd.co/#masterlist:~:text=meaning-,/j,-joking)
 
 ## Badges
 
@@ -34,5 +34,5 @@ To suffer!
 ## Author
 
 [@quwyou](https://github.com/quwyou)
-
+[@bjsho](https://github.com/bjsho)
 

@@ -9,8 +9,17 @@
  * @authorLink https://quwyou.com
  */
 
+ /**
+ * @name Geist
+ * @author bjsho
+ * @description changes all text to Geist
+ * @version 1.2
+ * @source https://github.com/bjsho/Geist-for-Vencord/blob/main/Geist.css
+ * @website https://github.com/bjsho/Geist-for-Vencord
+ */
+
 :root {
-  --font: "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", sans-serif; 
+  --font: "Geist", sans-serif; 
 }
 
 /* Apply font to all elements */
